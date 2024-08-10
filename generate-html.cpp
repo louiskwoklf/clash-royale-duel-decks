@@ -1,9 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const string OUTPUT = "basic.html";
+// const string OUTPUT = "basic.html";
 // const string OUTPUT = "ultchamp.html";
-// const string OUTPUT = "tourney.html";
+const string OUTPUT = "tourney.html";
 
 string formatCardName(const string& cardName) {
     string formattedName = cardName;
@@ -21,7 +21,7 @@ string generateDeckHtml(const vector<string>& deck) {
             html << "            <div class=\"card\">\n"
                  << "                <img src=\"https://cdns3.royaleapi.com/cdn-cgi/image/w=150,h=180,format=auto/static/img/cards/v3-2d286f92/"
                  << formattedCardName << ".png\" alt=\"" << card << "\" />\n"
-                 << "                <p>" << card << "</p>\n"
+                //  << "                <p>" << card << "</p>\n"
                  << "            </div>\n";
         } else {
             html << "            <div class=\"card\"></div>\n";
@@ -47,12 +47,20 @@ int main() {
     string line;
     int deckCount = 0;
 
+    string bannerTitle = "";
+    if (OUTPUT == "basic.html") bannerTitle = "Basic Decks";
+    else if (OUTPUT == "ultchamp.html") bannerTitle = "Ultimate Champion Decks";
+    else if (OUTPUT == "tourney.html") bannerTitle = "Global Tournament Decks";
+
     htmlOutput << "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n"
                << "    <meta charset=\"UTF-8\">\n"
                << "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n"
                << "    <title>Clash Royale Decks</title>\n"
-               << "    <link rel=\"stylesheet\" href=\"styles.css\">\n"
-               << "</head>\n<body>\n";
+               << "    <link rel=\"stylesheet\" href=\"dueldecks.css\">\n"
+               << "</head>\n<body>\n"
+               << "    <div class=\"banner\">\n"
+               << "        " << bannerTitle + "\n"
+               << "    </div>\n";
 
     while (getline(infile, line)) {
         if (line.empty()) continue;

@@ -1,30 +1,53 @@
-body {
-    background-color: #f0f0f0; /* Light grey background for a clean look */
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+body, html {
     margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
 }
 
-.button-container {
+.main-container {
+    display: flex;
+    flex-direction: column; /* Vertically stack the sections */
+    height: 100vh; /* Full viewport height */
+}
+
+.section {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background 0.3s ease;
+    padding: 20px;
 }
 
-.fancy-button {
-    display: inline-block;
-    background-color: #007bff; /* Blue background */
-    color: white; /* White text */
-    padding: 15px 30px; /* More padding for a bigger button */
-    margin: 10px 0; /* Space between buttons */
-    border-radius: 10px; /* Rounded corners */
-    text-decoration: none; /* Remove underline */
-    font-size: 18px; /* Larger font size */
-    font-weight: bold; /* Bold text */
-    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+.basic {
+    background: linear-gradient(180deg, #4a90e2, #9013fe); /* Vertical gradient */
 }
 
-.fancy-button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
+.ultimate {
+    background: linear-gradient(180deg, #ff5f6d, #ffc371); /* Different vertical gradient */
+}
+
+.tourney {
+    background: linear-gradient(180deg, #11998e, #38ef7d); /* Another vertical gradient */
+}
+
+.section:hover {
+    opacity: 0.8;
+}
+
+.section:active {
+    opacity: 0.6;
+}
+
+@media (max-width: 768px) {
+    .section {
+        font-size: 20px;
+        padding: 15px;
+    }
 }

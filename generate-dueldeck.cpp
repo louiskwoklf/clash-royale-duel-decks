@@ -1,11 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int UNIQUENESS = 32;
+const int UNIQUENESS = 31;
 
-const string CHOICES = "basic.txt";
+// const string CHOICES = "basic.txt";
 // const string CHOICES = "ultchamp.txt";
-// const string CHOICES = "tourney.txt";
+const string CHOICES = "tourney.txt";
 
 string cards[8];
 string decks[30][8];
