@@ -4,12 +4,31 @@ using namespace std;
 const int UNIQUENESS = 31;
 
 // const string CHOICES = "basic.txt";
-// const string CHOICES = "ultchamp.txt";
-const string CHOICES = "tourney.txt";
+const string CHOICES = "ultchamp.txt";
+// const string CHOICES = "tourney.txt";
 
 string cards[8];
 string decks[30][8];
 vector <pair <int, string> > duel_decks;
+
+bool cmp(const std::string& a, const std::string& b) {
+    // Check if both strings end with '1'
+    bool a_ends_with_1 = (!a.empty() && a.back() == '1');
+    bool b_ends_with_1 = (!b.empty() && b.back() == '1');
+
+    // If a ends with '1' and b does not, a should come first
+    if (a_ends_with_1 && !b_ends_with_1) {
+        return true;
+    }
+    
+    // If b ends with '1' and a does not, b should come first
+    if (b_ends_with_1 && !a_ends_with_1) {
+        return false;
+    }
+
+    // If both or neither end with '1', use regular lexicographical comparison
+    return a < b;
+}
 
 int count_unique_cards(int index1, int index2, int index3, int index4) {
     int uniqueness = 0;
@@ -80,6 +99,10 @@ int main() {
             decks[deck_count][i] = cards[i];
         }
         deck_count++;
+    }
+
+    for (int i = 0; i < deck_count; i++) {
+        sort(decks[i], decks[i] + 8, cmp);
     }
 
     for (int i = 0; i < deck_count; i++) {

@@ -1,445 +1,605 @@
-1: arrows,bomber,dark-prince,goblin-giant-ev1,phoenix,prince,rage,zap-ev1
-2: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-
-1: arrows,bomber,dark-prince,goblin-giant-ev1,phoenix,prince,rage,zap-ev1
-2: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-
-1: arrows,bomber,dark-prince,goblin-giant-ev1,phoenix,prince,rage,zap-ev1
-2: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,void,wall-breakers-ev1
-4: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-
-1: arrows,bomber,dark-prince,goblin-giant-ev1,phoenix,prince,rage,zap-ev1
-2: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,void,wall-breakers-ev1
-4: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-
-1: arrows,bomber,dark-prince,goblin-giant-ev1,phoenix,prince,rage,zap-ev1
-2: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-3: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-2: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-3: archers-ev1,electro-spirit,fireball,knight,skeletons,tesla-ev1,the-log,x-bow
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-2: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: ice-wizard,knight-ev1,rocket,skeletons,tesla-ev1,the-log,tornado,x-bow
-
-1: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-2: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-2: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: archers-ev1,electro-spirit,fireball,knight,skeletons,tesla-ev1,the-log,x-bow
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-2: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: ice-wizard,knight-ev1,rocket,skeletons,tesla-ev1,the-log,tornado,x-bow
-
-1: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-2: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-2: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-2: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-3: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: arrows,bomber-ev1,goblin-giant-ev1,guards,phoenix,prince,rage,void
-4: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-4: arrows,bomber-ev1,goblin-giant-ev1,guards,phoenix,prince,rage,void
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,void,wall-breakers-ev1
-3: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,void,wall-breakers-ev1
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: earthquake,firecracker-ev1,hog-rider,ice-spirit,mighty-miner,skeletons,tesla-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-4: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-3: arrows,bomber-ev1,goblin-gang,miner,mortar-ev1,prince,skeleton-dragons,skeleton-king
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: arrows,bomber-ev1,goblin-gang,miner,mortar-ev1,prince,skeleton-dragons,skeleton-king
-4: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: arrows,bomber-ev1,goblin-gang,miner,mortar-ev1,prince,skeleton-dragons,skeleton-king
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: arrows,bomber-ev1,goblin-gang,miner,mortar-ev1,prince,skeleton-dragons,skeleton-king
-4: earthquake,firecracker-ev1,hog-rider,ice-spirit,mighty-miner,skeletons,tesla-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: earthquake,firecracker-ev1,hog-rider,ice-spirit,mighty-miner,skeletons,tesla-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-3: arrows,bomber-ev1,goblin-gang,miner,mortar-ev1,prince,skeleton-dragons,skeleton-king
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,bowler,freeze,inferno-dragon,knight-ev1,lumberjack,tornado,wizard-ev1
-2: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,void,wall-breakers-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-2: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-2: earthquake,firecracker-ev1,hog-rider,ice-spirit,mighty-miner,skeletons,tesla-ev1,the-log
-3: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: earthquake,firecracker-ev1,hog-rider,ice-spirit,mighty-miner,skeletons,tesla-ev1,the-log
-3: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: archers-ev1,electro-spirit,fireball,knight,skeletons,tesla-ev1,the-log,x-bow
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: ice-wizard,knight-ev1,rocket,skeletons,tesla-ev1,the-log,tornado,x-bow
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: bomb-tower,goblin-drill-ev1,knight,magic-archer,skeletons-ev1,spear-goblins,the-log,tornado
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: bomb-tower,goblin-drill-ev1,knight,magic-archer,skeletons-ev1,spear-goblins,the-log,tornado
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: earthquake,firecracker-ev1,hog-rider,ice-spirit,mighty-miner,skeletons,tesla-ev1,the-log
-3: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: goblin-barrel-ev1,goblin-gang,ice-spirit,inferno-tower,knight-ev1,princess,rocket,the-log
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-2: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-3: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: ice-wizard,knight-ev1,rocket,skeletons,tesla-ev1,the-log,tornado,x-bow
-
-1: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-2: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-2: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-3: cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-2: earthquake,firecracker-ev1,hog-rider,ice-spirit,mighty-miner,skeletons,tesla-ev1,the-log
-3: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-2: executioner,goblins,hog-rider,ice-spirit-ev1,rocket,the-log,tornado,valkyrie-ev1
-3: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: bomb-tower,goblin-drill-ev1,knight,magic-archer,skeletons-ev1,spear-goblins,the-log,tornado
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: bomb-tower,goblin-drill-ev1,knight,magic-archer,skeletons-ev1,spear-goblins,the-log,tornado
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: bomb-tower,goblin-drill-ev1,knight,magic-archer,skeletons-ev1,spear-goblins,the-log,tornado
-2: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: bomb-tower,goblin-drill-ev1,knight,magic-archer,skeletons-ev1,spear-goblins,the-log,tornado
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: bomb-tower,goblin-drill-ev1,knight,magic-archer,skeletons-ev1,spear-goblins,the-log,tornado
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: arrows,bomber-ev1,goblin-gang,miner,mortar-ev1,prince,skeleton-dragons,skeleton-king
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: bomb-tower,goblin-drill-ev1,knight,magic-archer,skeletons-ev1,spear-goblins,the-log,tornado
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-2: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: goblin-barrel-ev1,goblin-gang,ice-spirit,inferno-tower,knight-ev1,princess,rocket,the-log
-
-1: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-2: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-3: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-2: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: earthquake,firecracker-ev1,guards,hog-rider,ice-spirit,mighty-miner,tesla-ev1,the-log
-
-1: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-2: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-4: goblin-barrel-ev1,goblin-gang,ice-spirit,inferno-tower,knight-ev1,princess,rocket,the-log
-
-1: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-2: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: goblin-demolisher,goblin-drill-ev1,goblins,ice-spirit,knight,poison,tesla-ev1,the-log
-2: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: goblin-demolisher,goblin-drill-ev1,goblins,ice-spirit,knight,poison,tesla-ev1,the-log
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: goblin-demolisher,goblin-drill-ev1,goblins,ice-spirit,knight,poison,tesla-ev1,the-log
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: goblin-demolisher,goblin-drill-ev1,goblins,ice-spirit,knight,poison,tesla-ev1,the-log
-2: bandit,dart-goblin,goblin-barrel-ev1,princess,royal-ghost,skeletons-ev1,suspicious-bush,the-log
-3: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: goblin-demolisher,goblin-drill-ev1,goblins,ice-spirit,knight,poison,tesla-ev1,the-log
-2: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-3: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: goblin-demolisher,goblin-drill-ev1,goblins,ice-spirit,knight,poison,tesla-ev1,the-log
-2: electro-spirit,fireball,fisherman,phoenix,royal-ghost,royal-giant-ev1,skeletons-ev1,the-log
-3: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: goblin-demolisher,goblin-drill-ev1,ice-spirit,knight,poison,skeletons,tesla-ev1,the-log
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: goblin-demolisher,goblin-drill-ev1,ice-spirit,knight,poison,skeletons,tesla-ev1,the-log
-2: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-3: balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: goblin-demolisher,goblin-drill-ev1,ice-spirit,knight,poison,skeletons,tesla-ev1,the-log
-2: balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
-
-1: goblin-demolisher,goblin-drill-ev1,ice-spirit,knight,poison,skeletons,tesla-ev1,the-log
-2: bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
-3: arrows,firecracker,goblin-gang,goblins,mighty-miner,royal-recruits-ev1,skeleton-barrel,wall-breakers-ev1
-4: arrows,bomber-ev1,dark-prince,goblin-giant-ev1,mini-pekka,minions,rage,sparky
+1: archers-ev1,tesla-ev1,electro-spirit,fireball,knight,skeletons,the-log,x-bow
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: ice-spirit-ev1,valkyrie-ev1,executioner,goblins,hog-rider,rocket,the-log,tornado
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: archers-ev1,tesla-ev1,electro-spirit,fireball,knight,skeletons,the-log,x-bow
+3: ice-spirit-ev1,valkyrie-ev1,executioner,goblins,hog-rider,rocket,the-log,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+3: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: battle-ram-ev1,bomber-ev1,arrows,bandit,mother-witch,pekka,royal-ghost,void
+2: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+2: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+3: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+2: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+3: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+2: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+3: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+2: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+2: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+2: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+2: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+3: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+2: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+2: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+2: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+3: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+2: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+3: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+2: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: barbarians-ev1,zap-ev1,balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,void
+
+1: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+2: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+3: ice-spirit-ev1,valkyrie-ev1,executioner,goblins,hog-rider,rocket,the-log,tornado
+4: barbarians-ev1,zap-ev1,balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,void
+
+1: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+2: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+3: valkyrie-ev1,zap-ev1,balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,void
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: barbarians-ev1,zap-ev1,balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,void
+
+1: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: valkyrie-ev1,zap-ev1,balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,void
+
+1: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+2: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+2: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+3: ice-spirit-ev1,valkyrie-ev1,executioner,goblins,hog-rider,rocket,the-log,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: barbarians-ev1,zap-ev1,balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+3: royal-giant-ev1,skeletons-ev1,electro-spirit,fireball,fisherman,phoenix,royal-ghost,the-log
+4: barbarians-ev1,zap-ev1,balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+3: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+3: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+4: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: barbarians-ev1,zap-ev1,balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+4: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: royal-giant-ev1,skeletons-ev1,electro-spirit,fireball,fisherman,phoenix,royal-ghost,the-log
+3: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+4: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: royal-giant-ev1,skeletons-ev1,electro-spirit,fireball,fisherman,phoenix,royal-ghost,the-log
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: royal-giant-ev1,skeletons-ev1,electro-spirit,fireball,fisherman,phoenix,royal-ghost,the-log
+3: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+4: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: barbarians-ev1,zap-ev1,balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,void
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+3: ice-spirit-ev1,valkyrie-ev1,executioner,goblins,hog-rider,rocket,the-log,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+2: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+3: royal-giant-ev1,skeletons-ev1,electro-spirit,fireball,fisherman,phoenix,royal-ghost,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: wizard-ev1,zap-ev1,bandit,battle-ram,minions,pekka,royal-ghost,void
+
+1: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+
+1: royal-giant-ev1,skeletons-ev1,electro-spirit,fireball,fisherman,phoenix,royal-ghost,the-log
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: ice-spirit-ev1,valkyrie-ev1,executioner,goblins,hog-rider,rocket,the-log,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+3: ice-spirit-ev1,valkyrie-ev1,executioner,goblins,hog-rider,rocket,the-log,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: barbarians-ev1,zap-ev1,balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,void
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,valkyrie-ev1,executioner,goblins,hog-rider,rocket,the-log,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: royal-giant-ev1,skeletons-ev1,electro-spirit,fireball,fisherman,phoenix,royal-ghost,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: skeletons-ev1,wizard-ev1,arrows,elixir-golem,night-witch,rage,skeleton-king,void
+2: royal-giant-ev1,skeletons-ev1,electro-spirit,fireball,fisherman,phoenix,royal-ghost,the-log
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: valkyrie-ev1,zap-ev1,balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,void
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: valkyrie-ev1,zap-ev1,balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,void
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+
+1: valkyrie-ev1,zap-ev1,balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,void
+2: royal-giant-ev1,skeletons-ev1,electro-spirit,fireball,fisherman,phoenix,royal-ghost,the-log
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+
+1: valkyrie-ev1,zap-ev1,balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,void
+2: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: valkyrie-ev1,zap-ev1,balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,void
+2: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: valkyrie-ev1,zap-ev1,balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,void
+2: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: valkyrie-ev1,zap-ev1,balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,void
+2: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+
+1: valkyrie-ev1,zap-ev1,balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,void
+2: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+
+1: valkyrie-ev1,zap-ev1,balloon,lava-hound,mega-minion,skeleton-dragons,tombstone,void
+2: goblin-drill-ev1,tesla-ev1,arrows,bandit,bomber,guards,royal-ghost,wall-breakers
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+3: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: firecracker-ev1,tesla-ev1,earthquake,hog-rider,ice-spirit,mighty-miner,skeletons,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: goblin-barrel-ev1,knight-ev1,dart-goblin,goblin-gang,prince,princess,rascals,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+4: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: goblin-drill-ev1,tesla-ev1,bomber,fire-spirit,guards,poison,valkyrie,wall-breakers
+3: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
+4: ice-spirit-ev1,skeletons-ev1,archer-queen,cannon,earthquake,royal-delivery,royal-hogs,the-log
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: bats-ev1,zap-ev1,goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+4: royal-recruits-ev1,wall-breakers-ev1,arrows,firecracker,goblin-gang,goblins,mighty-miner,void
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+4: bomber-ev1,knight-ev1,baby-dragon,graveyard,ice-wizard,poison,tombstone,tornado
+
+1: wizard-ev1,zap-ev1,bandit,electro-spirit,pekka,ram-rider,royal-ghost,void
+2: ice-spirit-ev1,skeletons-ev1,cannon,fireball,hog-rider,ice-golem,musketeer,the-log
+3: bomber-ev1,mortar-ev1,arrows,goblin-gang,miner,prince,skeleton-dragons,skeleton-king
+4: knight-ev1,wizard-ev1,balloon,bowler,freeze,inferno-dragon,lumberjack,tornado
 
