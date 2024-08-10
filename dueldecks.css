@@ -1,0 +1,71 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Deck Container */
+.deck-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #fff6ba;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+/* Individual Deck */
+.deck {
+    display: grid;
+    grid-template-columns: repeat(4, 70px);
+    grid-template-rows: repeat(2, 100px);
+    gap: 8px;
+    margin: 5px;
+    justify-content: center;  /* Center the grid horizontally */
+    align-content: center;    /* Center the grid vertically */
+}
+
+/* Card */
+.card {
+    width: 70px;
+    height: 100px;
+    background-color: lightgray;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.card img {
+    width: 70px;
+    height: 84px;
+    object-fit: cover;
+}
+
+.card p {
+    margin: 0;
+    padding-top: 2px;
+    font-size: 8px;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 1200px) {
+    .deck-container {
+        justify-content: space-between;
+    }
+
+    .deck-container .deck {
+        flex-basis: calc(50% - 20px); /* Ensures 2 decks per row */
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .deck-container .deck {
+        flex-basis: 100%;
+    }
+}

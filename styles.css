@@ -1,0 +1,30 @@
+body {
+    background-color: #f0f0f0; /* Light grey background for a clean look */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.fancy-button {
+    display: inline-block;
+    background-color: #007bff; /* Blue background */
+    color: white; /* White text */
+    padding: 15px 30px; /* More padding for a bigger button */
+    margin: 10px 0; /* Space between buttons */
+    border-radius: 10px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-size: 18px; /* Larger font size */
+    font-weight: bold; /* Bold text */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.fancy-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
