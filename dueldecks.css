@@ -29,7 +29,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     background-color: rgba(211, 211, 211, 0.5); /* lightgray with 50% opacity */
-    margin-top: 30px;
+    margin-top: 50px;
     gap: 10px;
 }
 
