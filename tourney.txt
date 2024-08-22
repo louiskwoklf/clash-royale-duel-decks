@@ -22,7 +22,8 @@ dart-goblin,goblin-barrel-ev1,goblin-gang,knight-ev1,prince,princess,rascals,the
 executioner,goblins,hog-rider,ice-spirit-ev1,rocket,the-log,tornado,valkyrie-ev1  
 cannon,fireball,hog-rider,ice-golem,ice-spirit-ev1,musketeer,skeletons-ev1,the-log  
 earthquake,firecracker-ev1,hog-rider,ice-spirit,mighty-miner,skeletons,tesla-ev1,the-log  
-arrows,elixir-golem,night-witch,rage,skeleton-king,skeletons-ev1,void,wizard-ev1goblin-barrel-ev1,goblin-gang,ice-spirit,inferno-tower,knight-ev1,princess,rocket,the-log  
+arrows,elixir-golem,night-witch,rage,skeleton-king,skeletons-ev1,void,wizard-ev1
+goblin-barrel-ev1,goblin-gang,ice-spirit,inferno-tower,knight-ev1,princess,rocket,the-log  
 electro-spirit,fisherman,royal-ghost,royal-giant-ev1,skeletons,the-log,void,wizard-ev1  
 bandit,battle-ram-ev1,electro-wizard,fireball,magic-archer,pekka,royal-ghost,zap-ev1  
 ice-wizard,knight-ev1,rocket,skeletons,tesla-ev1,the-log,tornado,x-bow  
