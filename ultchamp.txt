@@ -18,11 +18,11 @@ bandit,electro-spirit,pekka,ram-rider,royal-ghost,void,wizard-ev1,zap-ev1
 balloon,guards,inferno-dragon,lava-hound,skeleton-dragons,valkyrie-ev1,void,zap-ev1  
 arrows,elixir-golem,night-witch,rage,skeleton-king,skeletons-ev1,void,wizard-ev1  
 archer-queen,cannon,earthquake,ice-spirit-ev1,royal-delivery,royal-hogs,skeletons-ev1,the-log
-bomb-tower, goblin-drill-ev1, knight, magic-archer, skeletons-ev1, spear-goblins, the-log, tornado  
-barbarian-barrel, bomber-ev1, bowler, electro-giant, goblin-cage-ev1, lightning, phoenix, tornado  
-electro-spirit, fisherman, royal-ghost, royal-giant-ev1, skeletons, the-log, void, wizard-ev1  
-goblin-demolisher, goblin-drill-ev1, ice-spirit, knight, poison, skeletons, tesla-ev1, the-log  
-bats-ev1, goblin-gang, inferno-dragon, mega-knight, miner, skeleton-barrel, spear-goblins, zap-ev1
+bomb-tower,goblin-drill-ev1,knight,magic-archer,skeletons-ev1,spear-goblins,the-log,tornado  
+barbarian-barrel,bomber-ev1,bowler,electro-giant,goblin-cage-ev1,lightning,phoenix,tornado  
+electro-spirit,fisherman,royal-ghost,royal-giant-ev1,skeletons,the-log,void,wizard-ev1  
+goblin-demolisher,goblin-drill-ev1,ice-spirit,knight,poison,skeletons,tesla-ev1,the-log  
+bats-ev1, goblin-gang,inferno-dragon,mega-knight,miner,skeleton-barrel,spear-goblins,zap-ev1
 earthquake,firecracker-ev1,hog-rider,ice-spirit,mighty-miner,skeletons,tesla-ev1,the-log  
 baby-dragon,barbarian-barrel,goblin-cage-ev1,graveyard,ice-wizard,knight-ev1,poison,tornado  
 balloon,inferno-dragon,lava-hound,skeleton-dragons,tombstone,valkyrie-ev1,void,zap-ev1  

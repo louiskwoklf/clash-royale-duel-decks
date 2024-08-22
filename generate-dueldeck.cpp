@@ -129,7 +129,7 @@ int main() {
     set <string> duel_decks_final;
 
     for (int i = 0; i < duel_decks.size(); i++) {
-        if (duel_decks[i].first == UNIQUENESS) {
+        if (duel_decks[i].first >= UNIQUENESS) {
             duel_decks_final.insert(duel_decks[i].second);
         }
     }
