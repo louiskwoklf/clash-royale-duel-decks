@@ -2,8 +2,8 @@
 using namespace std;
 
 // const string OUTPUT = "basic.html";
-const string OUTPUT = "ultchamp.html";
-// const string OUTPUT = "tourney.html";
+// const string OUTPUT = "ultchamp.html";
+const string OUTPUT = "tourney.html";
 
 string formatCardName(const string& cardName) {
     string formattedName = cardName;
