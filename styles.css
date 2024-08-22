@@ -26,16 +26,12 @@ body, html {
     padding: 20px;
 }
 
-.basic {
+.ultimate {
     background: linear-gradient(180deg, #4a90e2, #9013fe); /* Vertical gradient */
 }
 
-.ultimate {
-    background: linear-gradient(180deg, #ff5f6d, #ffc371); /* Different vertical gradient */
-}
-
 .tourney {
-    background: linear-gradient(180deg, #11998e, #38ef7d); /* Another vertical gradient */
+    background: linear-gradient(180deg, #ff5f6d, #ffc371); /* Different vertical gradient */
 }
 
 .section:hover {
