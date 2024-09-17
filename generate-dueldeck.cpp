@@ -65,8 +65,8 @@ int count_unique_cards(int index1, int index2, int index3, int index4) {
 
 string stringify_deck(int deck_index, int deck_number) {
     string return_string = "";
-    return_string += (char)(deck_number + '0');
-    return_string += ": ";
+    // return_string += (char)(deck_number + '0');
+    // return_string += ": ";
     for (int i = 0; i < 8; i++) {
         return_string += decks[deck_index][i] + (i == 7 ? "\n": ",");
     }
@@ -115,7 +115,14 @@ int main() {
                     string deck3 = stringify_deck(k, 3);
                     string deck4 = stringify_deck(l, 4);
         
-                    string final_string = deck1 + deck2 + deck3 + deck4;
+                    string decks[4] = {deck1, deck2, deck3, deck4};
+                    sort(decks, decks + 4);
+                    decks[0].insert(0, "1: ");
+                    decks[1].insert(0, "2: ");
+                    decks[2].insert(0, "3: ");
+                    decks[3].insert(0, "4: ");
+
+                    string final_string = decks[0] + decks[1] + decks[2] + decks[3];
                     duel_decks.push_back(make_pair(uniqueness, final_string));
                 }
             }
